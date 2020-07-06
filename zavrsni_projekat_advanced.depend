@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1486321492 source:c:\users\acer_pc\desktop\zavrsni_projekat_advanced\demo.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1486470710 c:\users\acer_pc\desktop\zavrsni_projekat_advanced\resource.h
+
+1486470506 source:c:\users\acer_pc\desktop\zavrsni_projekat_advanced\main.cpp
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	<mmsystem.h>
+	<iostream>
+	<math.h>
+	"resource.h"
+
+1487527422 source:c:\users\acer_pc\desktop\fakultet\zavrsni_projekat_advanced\demo.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1487325484 c:\users\acer_pc\desktop\fakultet\zavrsni_projekat_advanced\resource.h
+
+1487527546 source:c:\users\acer_pc\desktop\fakultet\zavrsni_projekat_advanced\main.cpp
+	<windows.h>
+	<tchar.h>
+	<time.h>
+	<stdio.h>
+	<mmsystem.h>
+	<iostream>
+	<math.h>
+	"resource.h"
+
+1487325484 c:\users\acer_pc\desktop\fakultet\zavrsni_projekat_advanced\resources\headers\resource.h
+
+1487527229 source:c:\users\acer_pc\desktop\fakultet\zavrsni_projekat_advanced\resources\scripts\demo.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"..\headers\resource.h"
+
